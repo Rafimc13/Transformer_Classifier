@@ -1,0 +1,6 @@
+jupyter
+conllu
+pandas
+numpy
+tqdm
+transformers
