@@ -1,0 +1,10 @@
+/venv/
+.idea
+.ipynb_checkpoints
+testing.html
+transformer-(pos_tag).ipynb
+test.py
+TA2024@Transformers.ipynb
+Huggingface_transformers.ipynb
+Exercise3_Final (pos_tag).ipynb
+
